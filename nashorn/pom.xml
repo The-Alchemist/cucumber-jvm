@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
     <name>Cucumber-JVM: Nashorn</name>
     <description>A backend for Cucumber JVM that uses Nashorn instead of Rhino</description>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <url>https://github.com/The-Alchemist/cucumber-jvm</url>
     <inceptionYear>2016</inceptionYear>
 
@@ -63,7 +63,7 @@
         <url>https://github.com/The-Alchemist/cucumber-jvm</url>
         <connection>scm:git:git@github.com:The-Alchemist/cucumber-jvm.git</connection>
         <developerConnection>scm:git:git@github.com:The-Alchemist/cucumber-jvm.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>cucumber-nashorn-1.0.1</tag>
     </scm>
 
     <properties>
